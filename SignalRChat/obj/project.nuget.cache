@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ez2npBeYhJsFahT5AiEXIijaaM9jInktzvKCCVATGW0wY49/o6W0NaUv7OdMgJYqmVY3UGyQa4S6XnAnX4Sv5w==",
+  "success": true,
+  "projectFilePath": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "/home/viespa/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
