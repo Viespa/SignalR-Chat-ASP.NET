@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j7RMksmJGV2xDMnSbVBImJ+MjMT+gmeGZQlyzZnok6I=",
+  "Hash": "7JxWtcgnJhrUU12ukPf05RByGAQUN2ExFkFHsIAp/FY=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChat.bundle.scp.css"
     },
     {
+      "Identity": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/chat.js",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/chat.js"
+    },
+    {
       "Identity": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/css/site.css",
       "SourceId": "SignalRChat",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/js/signalr/dist/browser/signalr.js",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/signalr/dist/browser/signalr.js"
     },
     {
       "Identity": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/js/site.js",

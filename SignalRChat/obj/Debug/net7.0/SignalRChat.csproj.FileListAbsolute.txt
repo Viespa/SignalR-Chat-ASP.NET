@@ -29,3 +29,4 @@
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/SignalRChat.pdb
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/SignalRChat.genruntimeconfig.cache
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/ref/SignalRChat.dll
+/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/libman.json

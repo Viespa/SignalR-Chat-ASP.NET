@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/SignalRChat.bundle.scp.css"
     },
     {
+      "Id": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/chat.js",
+      "PackagePath": "staticwebassets/chat.js"
+    },
+    {
       "Id": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/js/signalr/dist/browser/signalr.js",
+      "PackagePath": "staticwebassets/js/signalr/dist/browser/signalr.js"
     },
     {
       "Id": "/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/wwwroot/js/site.js",
