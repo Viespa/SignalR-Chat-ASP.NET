@@ -8,10 +8,10 @@
 
 <h1><strong><img src="/img/Iron_Pickaxe.png" width="50px" height="50px">Nivell Ferro:✅</strong></h1> Nivell Pedra + L'usuari es pot identificar amb nom, i es veu el seu nom quan envia un missatge.
 
-<h1><strong><img src="/img/Golden_Pickaxe.png" width="50px" height="50px">Nivell Or:❌</strong></h1> Nivell Ferro + L'usuari pot crear sales de xat. Només els usuaris que s'hagin unit a la sala podran veure els missatges.
+<h1><strong><img src="/img/Golden_Pickaxe.png" width="50px" height="50px">Nivell Or:✅</strong></h1> Nivell Ferro + L'usuari pot crear sales de xat. Només els usuaris que s'hagin unit a la sala podran veure els missatges.
 
 <h1><strong><img src="/img/Diamond_Pickaxe.png" width="50px" height="50px">Nivell Diamant:❌</strong></h1> Nivell Or + L'usuari que crea el canal es converteix en administrador. Pot designar altres admins, esborrar missatges i altres accions que penseu.
 
 <h1><strong><img src="/img/Netherite_Pickaxe.png" width="50px" height="50px">Nivell Netherite:❌</strong></h1> Nivell Diamant + L'usuari pot estar a diversos canals/sales alhora. Es guarda l'historial de cada canal i es conserva en canviar.
 
-<h1><strong><img src="/img/Crying_Obsidian.png" width="50px" height="50px">Nivell Crying Obsidian:❌</strong></h1> Desenvolupeu alguna funcionalitat innovadora dins del xat
+<h1><strong><img src="/img/Crying_Obsidian.png" width="50px" height="50px">Nivell Crying Obsidian:✅</strong></h1> Desenvolupeu alguna funcionalitat innovadora dins del xat

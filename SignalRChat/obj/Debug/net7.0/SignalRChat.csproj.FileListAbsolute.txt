@@ -1,5 +1,144 @@
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/appsettings.Development.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/appsettings.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/libman.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.staticwebassets.runtime.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.exe
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.deps.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.runtimeconfig.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.dll
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.pdb
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.AssemblyReference.cache
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfoInputs.cache
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfo.cs
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.CoreCompileInputs.cache
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cache
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cs
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.build.SignalRChat.props
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SignalRChat.props
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SignalRChat.props
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets.pack.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets.build.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets.development.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/scopedcss/bundle/SignalRChat.styles.css
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChat.bundle.scp.css
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.dll
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/refint/SignalRChat.dll
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.pdb
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.genruntimeconfig.cache
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/ref/SignalRChat.dll
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/appsettings.Development.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/appsettings.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/libman.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.staticwebassets.runtime.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.exe
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.deps.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.runtimeconfig.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.dll
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/SignalRChat.pdb
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.AssemblyReference.cache
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfoInputs.cache
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfo.cs
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.CoreCompileInputs.cache
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cache
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cs
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.build.SignalRChat.props
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SignalRChat.props
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SignalRChat.props
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets.pack.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets.build.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/staticwebassets.development.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/scopedcss/bundle/SignalRChat.styles.css
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChat.bundle.scp.css
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.dll
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/refint/SignalRChat.dll
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.pdb
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/SignalRChat.genruntimeconfig.cache
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/obj/Debug/net7.0/ref/SignalRChat.dll
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/package-lock.json
+F:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/package.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/package-lock.json
+A:/ciclo dam1t andres/M5/Chat/SignalRChat/bin/Debug/net7.0/package.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/appsettings.Development.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/appsettings.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/libman.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/package-lock.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/package.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.staticwebassets.runtime.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.exe
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.deps.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.runtimeconfig.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.dll
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.pdb
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.AssemblyReference.cache
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfoInputs.cache
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfo.cs
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.CoreCompileInputs.cache
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cache
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cs
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.build.SignalRChat.props
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SignalRChat.props
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SignalRChat.props
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets.pack.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets.build.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets.development.json
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/scopedcss/bundle/SignalRChat.styles.css
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChat.bundle.scp.css
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.dll
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/refint/SignalRChat.dll
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.pdb
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.genruntimeconfig.cache
+A:/ciclo dam1t andres/M5/Chat2/SignalRChat/obj/Debug/net7.0/ref/SignalRChat.dll
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/appsettings.Development.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/appsettings.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/libman.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/package-lock.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/package.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.staticwebassets.runtime.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.deps.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.runtimeconfig.json
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.dll
+/home/viespa/Documentos/Chat2/SignalRChat/bin/Debug/net7.0/SignalRChat.pdb
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.AssemblyReference.cache
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfoInputs.cache
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.AssemblyInfo.cs
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.csproj.CoreCompileInputs.cache
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cache
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.RazorAssemblyInfo.cs
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.build.SignalRChat.props
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SignalRChat.props
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SignalRChat.props
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets.pack.json
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets.build.json
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/staticwebassets.development.json
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/scopedcss/bundle/SignalRChat.styles.css
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChat.bundle.scp.css
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.dll
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/refint/SignalRChat.dll
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.pdb
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/SignalRChat.genruntimeconfig.cache
+/home/viespa/Documentos/Chat2/SignalRChat/obj/Debug/net7.0/ref/SignalRChat.dll
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/appsettings.Development.json
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/appsettings.json
+/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/libman.json
+/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/package-lock.json
+/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/package.json
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/SignalRChat.staticwebassets.runtime.json
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/SignalRChat
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/SignalRChat.deps.json
@@ -29,4 +168,3 @@
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/SignalRChat.pdb
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/SignalRChat.genruntimeconfig.cache
 /home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/obj/Debug/net7.0/ref/SignalRChat.dll
-/home/viespa/Documentos/DAM2/m5/Chat SignalR ASP.NET/SignalR-Chat-ASP.NET/SignalRChat/bin/Debug/net7.0/libman.json

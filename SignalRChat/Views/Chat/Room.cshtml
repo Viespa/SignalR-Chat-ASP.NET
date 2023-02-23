@@ -1,0 +1,101 @@
+@model int
+<link href="https://rawgit.com/mervick/emojionearea/master/dist/emojionearea.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+<h1>@SignalRChat.controllers.ChatController.Rooms.GetValueOrDefault(Model)</h1>
+
+<div class="row">
+    <div class="col-12">
+        <input type="text" placeholder="usuario" id="user"/>
+        <input type="text" placeholder="texto" id="message"/>
+        <button id="btnSend">Send</button> 
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        <div id="messages"></div>
+    </div>
+    <div class="col-6">
+        <div id="notifications"></div>
+    </div>
+</div>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+@* <script src="~/js/chat2.js"></script> *@
+
+<script>
+    "use strict";
+
+
+var connection = new signalR.HubConnectionBuilder().withUrl("/chat").build();
+
+connection.start().then(() => {
+    connection.invoke("AddToGroup", "@Model")
+}).catch((e) => console.error(e));
+
+document.getElementById("btnSend").addEventListener("click", (event) => {
+
+    let room = "@Model";
+    let user = document.getElementById("user").value;
+    let message = document.getElementById("message").value;
+
+    connection.invoke("SendMessage", room, user, message).catch((err) => console.error(err.toString()));
+
+    document.getElementById("message").value = "";
+    document.getElementById("message").focus();
+
+    event.preventDefault();
+})
+
+connection.on("ReceiveMessage", (user, message) => {
+        var message = "<div><b>" + user + " dijo:</b> " + message + "</div>";
+        document.getElementById("messages").innerHTML = 
+            message + document.getElementById("messages").innerHTML;
+    })
+
+connection.on("ShowWho", (message) => {
+        var message = "<div><b>" + message + "</div>";
+        document.getElementById("notifications").innerHTML = 
+            message + document.getElementById("notifications").innerHTML;
+    })
+
+document.getElementById("trollBtnBye").addEventListener("click", (event) => {
+
+    let room = "@Model";
+    let user = document.getElementById("user").value;
+    let message = "Adiós";
+
+    connection.invoke("SendMessage", room, user, message).catch((err) => console.error(err.toString()));
+
+    document.getElementById("message").value = "";
+    document.getElementById("message").focus();
+
+    event.preventDefault();
+})
+
+document.getElementById("trollBtnHello").addEventListener("click", (event) => {
+
+    let room = "@Model";
+    let user = document.getElementById("user").value;
+    let message = "Hola";
+
+    connection.invoke("SendMessage", room, user, message).catch((err) => console.error(err.toString()));
+
+    document.getElementById("message").value = "";
+    document.getElementById("message").focus();
+
+    event.preventDefault();
+})
+</script>
+
+<script type="text/javascript" src="https://rawgit.com/mervick/emojionearea/master/dist/emojionearea.js"></script>
+
+<script>
+    $("#message").emojioneArea({
+  pickerPosition: "bottom"
+});
+   $("#user").emojioneArea({
+  pickerPosition: "bottom"
+});
+</script>

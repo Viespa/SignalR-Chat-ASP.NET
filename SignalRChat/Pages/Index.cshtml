@@ -1,28 +1,31 @@
 ﻿@page
-    <div class="container">
-        <div class="row p-1">
-            <div class="col-1">User</div>
-            <div class="col-5"><input type="text" id="userInput" /></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<link href="https://rawgit.com/mervick/emojionearea/master/dist/emojionearea.min.css" rel="stylesheet">
+<style>
+    a{
+        text-decoration: none;
+        color: black;
+    }
+</style>
+<div class="bg-light hv-100">
+    <div class=" container row mx-auto">
+            <h4 class="col-3">Salas de chat</h4>
+            <input class="w-25 col-3" type="text" id="addRoomName"/> 
+            <input class="w-25 col-3" type="button" id="addRoomBtn" value="Añadir Sala" />
+            <ul class="list-group mt-3 lista">
+                @foreach (var e in SignalRChat.ChatHub.Rooms)
+                {
+                    <li class="list-group-item"><a href="~/Chat/Room?room=@e.Key">@e.Value</a></li>
+                }
+            </ul>
         </div>
-        <div class="row p-1">
-            <div class="col-1">Message</div>
-            <div class="col-5"><input type="text" class="w-100" id="messageInput" /></div>
-        </div>
-        <div class="row p-1">
-            <div class="col-6 text-end">
-                <input type="button" id="sendButton" value="Send Message" />
-            </div>
-        </div>
-        <div class="row p-1">
-            <div class="col-6">
-                <hr />
-            </div>
-        </div>
-        <div class="row p-1">
-            <div class="col-6">
-                <ul id="messagesList"></ul>
-            </div>
-        </div>
-    </div>
+</div>
 <script src="~/js/signalr/dist/browser/signalr.js"></script>
 <script src="~/js/chat.js"></script>
+<script type="text/javascript" src="https://rawgit.com/mervick/emojionearea/master/dist/emojionearea.js"></script>
+
+<script>
+    $("#addRoomName").emojioneArea({
+  pickerPosition: "bottom"
+});
+</script>
